@@ -7,7 +7,7 @@ Here are my GitHub stats and a link for us to chat over a virtual coffee (or tea
 ### 🌱 I’m currently learning
 - `Docker` | `React` | `Builkite` | `JavaScript` -->
 
-### ☕ Let's chat over a virtual coffee: [schedule](https://calendly.com/diana-pamelaet/coffeeortea)
+### ☕ Let's chat over a virtual coffee: [schedule](https://calendly.com/diana-pamelaet/coffeechat)
 
 <!--
 **Diana20920/Diana20920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
